@@ -6,22 +6,20 @@ Skills
 Technical Skills: Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, Data Visualization (Power BI, Tableau), Machine Learning (Scikit-learn), Git/GitHub
 Soft Skills: Analytical thinking, Problem-solving, Project Management, Effective Communication, Stakeholder Management
 Projects
+
 Internal Communications Analysis Dashboard
 
 Developed a dashboard using Power BI to analyze communication effectiveness and employee engagement metrics.
 Technologies: Power BI, SQL for data extraction and cleaning.
-Predictive Modeling for Customer Churn
 
-Built a machine learning model in Python to predict customer churn for a telecommunications company.
-Technologies: Python (NumPy, Pandas, Scikit-learn), Jupyter Notebook.
 Education
 Data Science Bootcamp
 
 HyperionDev, March 2024 - July 2024
 Hands-on training in Python programming, data analysis, machine learning algorithms, and data visualization techniques.
-BSc, International Business & Economics
 
-Aston University, 2013
+BSc, International Business & Economics, Aston University, 2013
+
 What I'm Looking For
 I am actively seeking opportunities to apply my data analysis skills in a role where I can contribute to impactful data-driven initiatives. I am passionate about using data to drive insights and support strategic decision-making processes.
 
